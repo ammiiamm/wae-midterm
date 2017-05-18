@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # wae-midterm
+MIDTERM WAE2016
