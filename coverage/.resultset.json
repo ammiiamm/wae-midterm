@@ -1,0 +1,165 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/ammii/RubyMine/rolebase/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/models/course_offering.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/models/multirole.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/models/role.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/controllers/site_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/helpers/course_offerings_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/helpers/site_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/controllers/course_offerings_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/ammii/RubyMine/rolebase/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1475038992
+  }
+}
